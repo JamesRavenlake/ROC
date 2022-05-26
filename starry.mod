@@ -1,4 +1,4 @@
-name="Hearts of Iron IV: Starry Sky"
+name="StarrySky"
 path="mod/StarrySky"
 
 tags={
